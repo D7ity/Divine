@@ -1,1 +1,6 @@
+if game.PlaceId == 10321372166 then loadstring(game:HttpGet("https://raw.githubusercontent.com/D7ity/Divine/main/DivineHub/Scripts/PetSimX"))() end --psx hc
+if game.PlaceId == 6284583030 then loadstring(game:HttpGet("https://raw.githubusercontent.com/D7ity/Divine/main/DivineHub/Scripts/PetSimX"))() end -- psx normal
+if game.PlaceId == 1962086868 then loadstring(game:HttpGet("https://raw.githubusercontent.com/D7ity/Divine/main/DivineHub/Scripts/TowerOfHell"))() end -- toh normal
+if game.PlaceId == game.PlaceId then loadstring(game:HttpGet("https://raw.githubusercontent.com/D7ity/Divine/main/DivineHub/Scripts/TowerOfHell"))() end -- toh pro
+
 
